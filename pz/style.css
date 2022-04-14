@@ -1,0 +1,237 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+    
+.wrapper{
+    max-width: 1110px;
+    padding-left:15px;
+    padding-right:15;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+
+
+.nav>li>a{
+    text-decoration: none;
+    color:#000000;
+}
+.header{
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+}
+.logo-image{
+    display: block;
+    width: 301px;
+    height: 121px;
+}
+
+.button {
+    padding:  25px ;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+    color: black;
+}
+.container {
+    margin: 0;
+    width: auto  ;
+    height: 615px ;
+    background:url(bg.png)  ;
+}
+/* Aici noi ne ocupam cu containerul din mijloc
+ */
+.row {
+    margin: 0px;
+    height: 869px;
+    left: 0px;
+    right: 8742px;
+    top: 698px;
+    background: linear-gradient(286.44deg, 
+    #00FFFF 0%, #FF00FF 51.35%, #00FFFF 100%, #00FFFF 100%);
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .col-3 {
+    height: 536px;
+    width: 441px; 
+    background: #FFFFFF;
+    margin: .5rem;
+    border-radius: 60px;
+  }
+  
+  .row {
+      display: flex;
+      flex-flow: row nowrap;
+      align-items: center;
+      align-content: center;
+      justify-content: space-between;
+      
+  }
+  .h5 {
+    font-family: Montserrat;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 900;
+    text-align: center;
+    color: red;
+    margin: 10px;
+      
+}
+.h6 {    
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 18px;
+    color: #000000;
+    margin: 0px 140px;
+
+}
+.img1 {
+    width: 340px;
+    height: 238px;
+    margin-left: 55px;
+    align-content: center;
+    
+}
+.button1 {
+    background-color:#FFD363 ;
+    text-align: center;
+    font-size: 64px;
+    color: black;
+    font-family: Montserrat;
+    font-weight: 600;
+    text-decoration: none;
+    
+    
+    padding: 15px 40px 15px 40px;
+    border-radius: 60px;
+    
+
+}
+.nav2 {
+    margin: 112px 0;
+    margin-left: 85px;
+}
+
+/* SWEET SPAGHETTI */
+
+.img2 {
+    width: 115px;
+    height: 300px;
+    margin-left: 150px;
+}
+
+.h7{
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 18px;
+    color: #000000;
+    margin: 0px 100px;
+
+}
+
+.nav3 {
+    margin: 50px 0;
+    margin-left: 85px;
+}
+
+.button2 {
+    background-color:#FFD363 ;
+    text-align: center;
+    font-size: 64px;
+    color: black;
+    font-family: Montserrat;
+    font-weight: 600;
+    text-decoration: none;
+    
+    padding: 15px 40px 15px 40px;
+    border-radius: 60px;
+    
+
+}
+
+/* AL 3 BLOCK YOO */
+.img3 {
+    width: 115px;
+    height: 305px;
+    margin-left: 150px;
+
+}
+.h61{
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 900;
+    text-align: center;
+    color: red;
+    margin: 10px;
+}  
+
+
+.button3 {
+    background-color:#FFD363 ;
+    text-align: center;
+    font-size: 64px;
+    color: black;
+    font-family: Montserrat;
+    font-weight: 600;
+    text-decoration: none;
+    
+    padding: 15px 40px 15px 40px;
+    border-radius: 60px;
+
+} 
+
+.nav4 {
+    margin: 52px 0;
+    margin-left: 85px;
+}
+
+/* ULTIMUL CONT */
+
+.add {
+    width: auto;
+    height: 300px;
+    background-color: black;
+    padding: 20px;
+    justify-content: space-between;
+    display: flex;
+    
+    
+}
+.h51 {
+    color:white ;
+    font-size: 20px
+    
+}
+
+.inst {
+    margin: 40px;
+    
+}
+.navigat {
+    margin: 30px;
+
+}
+
+.face {
+    margin: 40px;
+}
+
+.h3 {
+    color: blanchedalmond;
+}
+
+
+.tel {
+    text-decoration: none;
+    color: blanchedalmond;
+    font-size: 18px;
+}
+    
